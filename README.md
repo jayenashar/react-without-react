@@ -6,7 +6,7 @@ API-comptible replacement of React.  For use with create-react-app
 * small build (less than 1 KB)
 
 ## To use
-1. Copy files from src/ to your src/
+1. Copy files from react-without-react/src/ to your-react-app/src/
 2. Update your import statements to
 ```
 import React from './react';
