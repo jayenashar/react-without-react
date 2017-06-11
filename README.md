@@ -14,8 +14,8 @@ import ReactDOM from './react-dom';
 ```
 
 ## Functions currently provided
-* React.createElement
-* ReactDOM.render
+* `React.createElement`
+* `ReactDOM.render`
 
 ## Features currently supported
 * HTML
