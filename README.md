@@ -19,12 +19,15 @@ import ReactDOM from './react-dom';
 
 ## Features currently supported
 * HTML
-* JSX components
+* class-based components
+* state
+* event handlers (e.g. onClick)
 
 ## Future work
 * props
-* state
+* svg
 
 ## Out of scope
 * context
 * minimal rerendering
+* function-based components
