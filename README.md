@@ -24,7 +24,6 @@ import ReactDOM from './react-dom';
 * event handlers (e.g., onClick)
 * props
 * controlled components
-    * checkbox/radio
 
 ## Future work
 * svg
@@ -34,3 +33,4 @@ import ReactDOM from './react-dom';
 * context
 * automatic minimal rerendering (manual how-to coming soon)
 * function-based components
+* propTypes checking
