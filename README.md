@@ -22,12 +22,14 @@ import ReactDOM from './react-dom';
 * class-based components
 * state
 * event handlers (e.g. onClick)
+* props
+* controlled components
+    * checkbox/radio
 
 ## Future work
-* props
 * svg
 
 ## Out of scope
 * context
-* minimal rerendering
+* automatic minimal rerendering (manual how-to coming soon)
 * function-based components
