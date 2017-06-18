@@ -23,11 +23,11 @@ import ReactDOM from './react-dom';
 * state
 * event handlers (e.g., onClick)
 * props
-* controlled components
 
 ## Future work
 * svg
 * modularity (e.g., disabling unused features like state with an environment variable `REACT_APP_WITHOUT_STATE`)
+* controlled-component improvements
 
 ## Out of scope
 * context
