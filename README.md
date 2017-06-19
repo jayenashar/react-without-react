@@ -34,3 +34,4 @@ import ReactDOM from './react-dom';
 * automatic minimal rerendering (manual how-to coming soon)
 * function-based components
 * propTypes checking
+* refs
