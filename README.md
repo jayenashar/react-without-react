@@ -21,17 +21,18 @@ import ReactDOM from './react-dom';
 * HTML
 * class-based components
 * state
-* event handlers (e.g., onClick)
+* event handlers (e.g., `onClick`)
 * props
 
 ## Future work
 * svg
 * modularity (e.g., disabling unused features like state with an environment variable `REACT_APP_WITHOUT_STATE`)
 * controlled-component improvements
+* `ReactDOM.findDOMNode`
 
 ## Out of scope
 * context
 * automatic minimal rerendering (manual how-to coming soon)
 * function-based components
 * propTypes checking
-* refs
+* refs (use `ReactDOM.findDOMNode`)
