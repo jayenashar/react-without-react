@@ -28,11 +28,10 @@ import ReactDOM from './react-dom';
 * svg
 * modularity (e.g., disabling unused features like state with an environment variable `REACT_APP_WITHOUT_STATE`)
 * controlled-component improvements
-* `ReactDOM.findDOMNode`
+* refs
 
 ## Out of scope
 * context
 * automatic minimal rerendering (manual how-to coming soon)
 * function-based components
 * propTypes checking
-* refs (use `ReactDOM.findDOMNode`)
